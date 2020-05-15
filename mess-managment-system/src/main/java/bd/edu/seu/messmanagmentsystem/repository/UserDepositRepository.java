@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.repository;import bd.edu.seu.messmanagmentsystem.model.UserDeposit;import org.springframework.data.repository.CrudRepository;public interface UserDepositRepository extends CrudRepository<UserDeposit,Long> {}

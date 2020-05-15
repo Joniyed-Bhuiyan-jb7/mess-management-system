@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.exceptions;public class ResourceAlreadyExistsException extends Exception {    public ResourceAlreadyExistsException(String s) {        super(s);    }}

@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.exceptions;public class ResourceNotExistException extends Exception {    public ResourceNotExistException(String s) {        super(s);    }}

@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.service;public class ManagerServiceTest {}
