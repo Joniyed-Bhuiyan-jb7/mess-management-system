@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.ModelForResponse;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;import java.time.LocalDate;@Data@NoArgsConstructor@AllArgsConstructorpublic class MemberDepositResponse {    private long member_id;    private String name;    private double depositBalance;    private LocalDate date;}

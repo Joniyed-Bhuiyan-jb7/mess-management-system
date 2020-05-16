@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagmentsystem.ModelForResponse;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@Data@AllArgsConstructor@NoArgsConstructorpublic class MealRate_TotalMeal_BazarCost {    private double cost;    private double meal;    private double rate;}
